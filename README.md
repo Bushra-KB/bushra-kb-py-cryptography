@@ -34,7 +34,17 @@ bushra-kb-py-cryptography/
         ├── sha256.py
         └── md5.py
 ```
+## Getting Started
 
+### Prerequisites
+
+Make sure you have Python installed on your system. You can download it from python.org.
+
+### Installation
+
+Clone the repository to your local machine:
+
+```bash
 Advanced Encryption Standard (AES)
 Data Encryption Standard (DES)
 RSA Algorithm (Rivest, Shamir, Adleman Algorithm)
