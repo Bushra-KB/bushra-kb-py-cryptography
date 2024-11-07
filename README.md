@@ -43,8 +43,10 @@ Make sure you have Python installed on your system. You can download it from pyt
 ### Installation
 
 Clone the repository to your local machine:
-
 ```bash
+git clone https://github.com/yourusername/bushra-kb-crypto-algorithms.git
+cd bushra-kb-crypto-algorithms
+```
 Advanced Encryption Standard (AES)
 Data Encryption Standard (DES)
 RSA Algorithm (Rivest, Shamir, Adleman Algorithm)
