@@ -19,6 +19,30 @@ Welcome to the repository for implementing various cryptographic algorithms in P
 
 The repository is organized as follows:
 
+bushra-kb-crypto-algorithms/
+│
+├── README.md
+├── aes/
+│   └── aes.py
+├── des/
+│   └── des.py
+├── rsa/
+│   └── rsa.py
+├── sha/
+│   └── sha.py
+├── triple_des/
+│   └── triple_des.py
+├── idea/
+│   └── idea.py
+├── ecc/
+│   └── ecc.py
+├── sha256/
+│   └── sha256.py
+└── md5/
+    └── md5.py
+
+
+
 bushra-kb-crypto-algorithms/ │ ├── README.md ├── aes/ │ └── aes.py ├── des/ │ └── des.py ├── rsa/ │ └── rsa.py ├── sha/ │ └── sha.py ├── triple_des/ │ └── triple_des.py ├── idea/ │ └── idea.py ├── ecc/ │ └── ecc.py ├── sha256/ │ └── sha256.py └── md5/ └── md5.py
 
 
