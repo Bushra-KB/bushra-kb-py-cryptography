@@ -19,7 +19,7 @@ Welcome to the repository for implementing various cryptographic algorithms in P
 
 The repository is organized as follows:
 ```
-bushra-kb-crypto-algorithms/
+bushra-kb-py-cryptography/
  │
  ├── README.md
  └──  algos/
