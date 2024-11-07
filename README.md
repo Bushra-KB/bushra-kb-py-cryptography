@@ -15,6 +15,13 @@ Welcome to the repository for implementing various cryptographic algorithms in P
 8. **SHA-256**
 9. **MD5**
 
+## Project Structure
+
+The repository is organized as follows:
+
+bushra-kb-crypto-algorithms/ │ ├── README.md ├── aes/ │ └── aes.py ├── des/ │ └── des.py ├── rsa/ │ └── rsa.py ├── sha/ │ └── sha.py ├── triple_des/ │ └── triple_des.py ├── idea/ │ └── idea.py ├── ecc/ │ └── ecc.py ├── sha256/ │ └── sha256.py └── md5/ └── md5.py
+
+
 
 10. 
 Advanced Encryption Standard (AES)
