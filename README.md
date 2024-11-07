@@ -60,5 +60,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
--- Inspired by various cryptography resources and tutorials.
--- Special thanks to the open-source community for their invaluable contributions.
+- Inspired by various cryptography resources and tutorials.
+- Special thanks to the open-source community for their invaluable contributions.
