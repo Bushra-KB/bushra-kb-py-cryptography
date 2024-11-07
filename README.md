@@ -49,8 +49,9 @@ cd bushra-kb-crypto-algorithms
 ```
 ### Usage
 Each algorithm is implemented in its own python file. You can run the scripts directly to see the algorithms in action. For example, to run the AES implementation:
-     ```cd aes
-        python aes.py```
+```
+cd algos
+python aes.py ```
 Advanced Encryption Standard (AES)
 Data Encryption Standard (DES)
 RSA Algorithm (Rivest, Shamir, Adleman Algorithm)
