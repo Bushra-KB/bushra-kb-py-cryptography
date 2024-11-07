@@ -19,7 +19,16 @@ Welcome to the repository for implementing various cryptographic algorithms in P
 
 The repository is organized as follows:
 ```
-bushra-kb-crypto-algorithms/ │ ├── README.md ├── aes/ │ ├── init.py │ └── aes.py ├── des/ │ ├── init.py │ └── des.py ├── rsa/ │ ├── init.py │ └── rsa.py ├── sha/ │ ├── init.py │ └── sha.py ├── triple_des/ │ ├── init.py │ └── triple_des.py ├── idea/ │ ├── init.py │ └── idea.py ├── ecc/ │ ├── init.py │ └── ecc.py ├── sha256/ │ ├── init.py │ └── sha256.py └── md5/ ├── init.py └── md5.py
+bushra-kb-crypto-algorithms/
+ │
+ ├── README.md
+ ├── aes/
+ │   ├── init.py
+ │   └── aes.py
+ ├── des/
+ │ ├── init.py
+ │ └── des.py
+ ├── rsa/ │ ├── init.py │ └── rsa.py ├── sha/ │ ├── init.py │ └── sha.py ├── triple_des/ │ ├── init.py │ └── triple_des.py ├── idea/ │ ├── init.py │ └── idea.py ├── ecc/ │ ├── init.py │ └── ecc.py ├── sha256/ │ ├── init.py │ └── sha256.py └── md5/ ├── init.py └── md5.py
 ```
 
 Advanced Encryption Standard (AES)
