@@ -53,19 +53,12 @@ Each algorithm is implemented in its own python file. You can run the scripts di
 cd algos
 python aes.py
 ```
-Advanced Encryption Standard (AES)
-Data Encryption Standard (DES)
-RSA Algorithm (Rivest, Shamir, Adleman Algorithm)
-Secure Hash Algorithm (SHA)
-Triple Data Encryption Standard (Triple DES)
-International Data Encryption Algorithm (IDEA)
-Elliptic Curve Cryptography (ECC)
+### Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-Algorithms Implemented
-Advanced Encryption Standard (AES)
-Data Encryption Standard (DES)
-RSA Algorithm (Rivest, Shamir, Adleman Algorithm)
-Secure Hash Algorithm (SHA)
-Triple Data Encryption Standard (Triple DES)
-International Data Encryption Algorithm (IDEA)
-Elliptic Curve Cryptography (ECC)
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+-- Inspired by various cryptography resources and tutorials.
+-- Special thanks to the open-source community for their invaluable contributions.
