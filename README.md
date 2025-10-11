@@ -45,7 +45,7 @@ Make sure you have Python installed on your system. You can download it from pyt
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/bushra-kb-crypto-algorithms.git
-cd bushra-kb-crypto-algorithmsv
+cd bushra-kb-crypto-algorithms
 ```
 ### Usage
 Each algorithm is implemented in its own python file. You can run the scripts directly to see the algorithms in action. For example, to run the AES implementation:
