@@ -5,13 +5,13 @@ def pad(text):
     while len(text) % 8 != 0:
         text += ' '
     return text
-
+#Encryption Via DES
 def encrypt_DES(key, data):
     des = DES.new(key, DES.MODE_ECB)
     padded_data = pad(data)
     encrypted_data = des.encrypt(padded_data.encode('utf-8'))
     return base64.b64encode(encrypted_data).decode('utf-8')
-
+#decryption via DES
 def decrypt_DES(key, data):
     des = DES.new(key, DES.MODE_ECB)
     encrypted_data = base64.b64decode(data)
